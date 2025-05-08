@@ -1,0 +1,15 @@
+{C:/Users/Kasra/Desktop/Simple Code Testers/testSystemVerilog/adder.sv} {1 {vlog -work work -sv -stats=none {C:\Users\Kasra\Desktop\Simple Code Testers\testSystemVerilog\adder.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CLAdder
+
+Top level modules:
+	CLAdder
+
+} {} {}} {C:/Users/Kasra/Desktop/Simple Code Testers/testSystemVerilog/adderTestBench.sv} {1 {vlog -work work -sv -stats=none {C:\Users\Kasra\Desktop\Simple Code Testers\testSystemVerilog\adderTestBench.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}}
