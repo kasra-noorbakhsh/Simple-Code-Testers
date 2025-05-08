@@ -1,0 +1,10 @@
+testVerilog/output_files/
+testVerilog/incremental_db/
+testVerilog/db/
+testSystemVerilog/output_files/
+testSystemVerilog/incremental_db/
+testSystemVerilog/db/
+
+*.o
+*.exe
+*.log
