@@ -21,7 +21,6 @@ This project provides simple code examples in multiple programming languages to 
 - [Go](https://golang.org/) for Go runtime
 - [Python](https://www.python.org/) for Python scripts
 - [Quartus Prime](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html) and [ModelSim](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/model-sim.html) for Verilog/SystemVerilog
-- [Visual Studio Code](https://code.visualstudio.com/) for development (optional)
 
 ---
 
