@@ -28,7 +28,7 @@ This project provides simple code examples in multiple programming languages to 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/Simple-Code-Testers.git
+   git clone https://github.com/kasra-noorbakhsh/Simple-Code-Testers.git
    cd Simple-Code-Testers
    ```
 
